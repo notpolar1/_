@@ -2,7 +2,7 @@ const data = "//uwBAAAA/sfSh1vIAB/Y+lDreQAFEyVNznugBKJkqbnPdACAA1rAOPfTWycGHRtEM
 
 if(!window.music) {
   window.music = {
-    fis_gratitude: data;
+    fis_gratitude: data
   };
 } else {
   window.music.fis_gratitude = data;
